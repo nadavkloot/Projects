@@ -6,6 +6,7 @@ The project include the following stages:
 - Data preprocessing.
 - Exploratory data analysis.
 - Categorization.
+- Product Range Analysis.
 - Testing hypotheses.
 - Dashboard.
 
